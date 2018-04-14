@@ -35,4 +35,8 @@ body button {
 #game-board {
     float: left;
     padding: 20px 0px;
+    background-image: url('../starter_code/images/RoadTexture1.png491f5096-dd03-463e-b202-386533cac253Large.jpg');
+    background-size: contain;
+    height: 700px;
+    width: 500px;
 }
